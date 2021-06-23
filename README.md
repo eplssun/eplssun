@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=black&text=EAT%20・%20PLAY%20・%20LOVE%20!&fontColor=ffffff&fontSize=40&animation=twinkling)
 
-<h3 align="center"> ### Hi there 👋 </h3>
+<h3 align="center"> ### Hi there. 🥂 </h3>
 <p align="center">
-I'm yangyang, a growing web designer.✨
+I'm yangyang, a growing web designer. 🎨
 </p>
 
 <h3 align="center">•••</h3>
