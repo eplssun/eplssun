@@ -5,10 +5,28 @@
 I'm yangyang, a growing web designer.✨
 </p>
 
-<h3 align="center">📚 Technology Stack 📚</h3>
+<h3 align="center">•••</h3>
+<h3 align="center">Technology Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/><br/><br/>
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>&nbsp 
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/><br/>
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>&nbsp 
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>&nbsp 
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/><br/>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>&nbsp
+  <img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator"/>&nbsp
+  <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/eplssun">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eplssun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <!--
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eplssun&layout=compact&langs_count=8&theme=algolia"/>
+  -->
+</a>
 </p>
 
 <h3 align="center">•••</h3>
@@ -17,7 +35,7 @@ I'm yangyang, a growing web designer.✨
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
   <a href="https://instagram.com/eplssun" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F alt=instagram style="margin-bottom: 5px;" />
   </a>
   <a href="mailto:eunhasu170821@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eunhasu170821@gmail.com"/>
@@ -25,8 +43,9 @@ I'm yangyang, a growing web designer.✨
 </p>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feplssun&count_bg=%23525252&title_bg=%23212121&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
+
 <!--
 **eplssun/eplssun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,4 +61,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
