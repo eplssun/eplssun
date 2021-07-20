@@ -34,6 +34,9 @@ I'm yangyang, a growing web designer. 🎨
   <a href="https://github.com/eplssun" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
+  <a href="https://blog.naver.com/pretty_who" target="_blank">
+    <img src=https://img.shields.io/badge/-Naver%20blog-brightgreen?style=for-the-badge&logo=Naver&logoColor=white alt=Naver style="margin-bottom: 5px;" />
+  </a>
   <a href="https://instagram.com/eplssun" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F alt=instagram style="margin-bottom: 5px;" />
   </a>
